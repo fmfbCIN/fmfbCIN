@@ -119,10 +119,11 @@ Currently, I am learning topics as machine learning, computer vision and softwar
 [Thunderflix - SQL](https://github.com/felipemfb/thunderflix)<br/>
 [Edge Detection with OpenCV - C++](https://github.com/felipemfb/Edge_Detection)<br/>
 [Spaceship Game with Raylib - C](https://github.com/felipemfb/Raylib_Game)<br/>
+[Voting with a robotic arm - C](https://github.com/felipemfb/Robotic_Arm)<br/>
 [Multi VMs + Docker website project - Docker, OracleVM and JavaScript](https://github.com/felipemfb/Virtualization_and_Containerization)<br/>
 [Urban Traffic Speed Prediction with Random Forest - Python](https://github.com/felipemfb/Road_Traffic_Generation)<br/>
 [Solving the CIFAR-10 problem with MLP and CNN - Python](https://github.com/felipemfb/CIFAR-10_MODEL)<br/>
-[Voting with a robotic arm - C](https://github.com/felipemfb/Robotic_Arm)<br/>
+[Knowledge Graph Generator - Python](https://github.com/felipemfb/Wikidata)<br/>
 [CITi's Recruitment Process - React, Node and TypeScript](https://github.com/felipemfb/CITi_Recruitment_Process_Project)<br/>
 
 ## Connect with Me
